@@ -1,6 +1,6 @@
 # VladislavRazgulyaev
 
-![Header](./github-header-image.png)
+![Header](./github-header-image.png (2))
 
 1. Unity C# Game Developer
 2. Two years practice in Unity
